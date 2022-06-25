@@ -1,0 +1,47 @@
+*{
+    font-family: Arial;
+    padding: 5px;
+    margin: 5px;
+}
+h1{
+    font-family: Junegull;
+    text-align: center;
+}
+body{
+    background: linear-gradient(#303030c1, rgb(165, 165, 171)); 
+    padding: 10px;
+    margin: 50px 400px;
+}
+div{
+    text-align: justify;
+}
+.divo{
+    text-align: center;
+}
+.all{
+    background: linear-gradient(rgb(255, 255, 255),rgb(213, 213, 219)); 
+    border: 0px;
+    border-radius: 50px;
+}
+.ke{
+    display: flex;
+    justify-content: flex-end;
+}
+input{
+    border: 1px solid black;
+    border-radius: 30px;
+    width: 200 px;
+    height: 30px;
+    padding: 0 20px;
+    font-size: 15px;
+    background-color: white;
+    color: black;
+}
+.nose{
+    display: flex;
+    justify-content: center;
+}
+img{
+    border: 0px;
+    border-radius: 30px;
+}
